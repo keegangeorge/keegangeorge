@@ -1,6 +1,5 @@
 ### Hello, I'm Keegan 👋
 I'm a Full Stack Developer with diverse knowledge and am passionate in creating website designs that are pleasing and effective.
-I'm the owner of [Stallion Digital](https://stalliondigital.ca), a web design agency which helps businesses establish an online presence.
 
 📫 Reach me at: [keegan@stalliondigital.ca](mailto:keegan@stalliondigital.ca)
 
